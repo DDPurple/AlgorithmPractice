@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3036_Ring/1.0.0": {
+        "runtime": {
+          "3036_Ring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3036_Ring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

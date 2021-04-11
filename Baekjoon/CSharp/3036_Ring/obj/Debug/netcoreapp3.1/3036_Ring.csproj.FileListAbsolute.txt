@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.exe
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.deps.json
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.runtimeconfig.json
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.runtimeconfig.dev.json
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.dll
+C:\Practice\Baekjoon\3036_Ring\bin\Debug\netcoreapp3.1\3036_Ring.pdb
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.AssemblyInfo.cs
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.dll
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.pdb
+C:\Practice\Baekjoon\3036_Ring\obj\Debug\netcoreapp3.1\3036_Ring.genruntimeconfig.cache

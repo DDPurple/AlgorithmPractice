@@ -1,0 +1,12 @@
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.exe
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.deps.json
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.runtimeconfig.json
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.runtimeconfig.dev.json
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.dll
+C:\Practice\Baekjoon\11050_BinomialCoefficient\bin\Debug\netcoreapp3.1\11050_BinomialCoefficient.pdb
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.AssemblyInfo.cs
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.dll
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.pdb
+C:\Practice\Baekjoon\11050_BinomialCoefficient\obj\Debug\netcoreapp3.1\11050_BinomialCoefficient.genruntimeconfig.cache

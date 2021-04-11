@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.exe
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.deps.json
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.runtimeconfig.json
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.runtimeconfig.dev.json
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.dll
+C:\Practice\Baekjoon\1260_DFSAndBFS\bin\Debug\netcoreapp3.1\1260_DFSAndBFS.pdb
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.AssemblyInfo.cs
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.dll
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.pdb
+C:\Practice\Baekjoon\1260_DFSAndBFS\obj\Debug\netcoreapp3.1\1260_DFSAndBFS.genruntimeconfig.cache

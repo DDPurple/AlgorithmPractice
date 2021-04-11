@@ -1,0 +1,12 @@
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.exe
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.deps.json
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.runtimeconfig.json
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.runtimeconfig.dev.json
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.dll
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\bin\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.pdb
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.AssemblyInfo.cs
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.dll
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.pdb
+C:\Practice\Baekjoon\1676_NoOfZeroAtFactorial\obj\Debug\netcoreapp3.1\1676_NoOfZeroAtFactorial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.AssemblyInfo.cs
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.exe
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.deps.json
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.runtimeconfig.json
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.runtimeconfig.dev.json
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.dll
+C:\Practice\Baekjoon\2820_CarFactory\bin\Debug\netcoreapp3.1\2820_CarFactory.pdb
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.dll
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.pdb
+C:\Practice\Baekjoon\2820_CarFactory\obj\Debug\netcoreapp3.1\2820_CarFactory.genruntimeconfig.cache

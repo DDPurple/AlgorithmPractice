@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzqPUoIqHIjsArZEPaRWkA228r5s25njkZKUrXsqGjwsn9+bh5P/V78FE6R+yfBU32x3iodQ0/SGApzizAd5pA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Baekjoon\\1260_DFSAndBFS\\1260_DFSAndBFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minwoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

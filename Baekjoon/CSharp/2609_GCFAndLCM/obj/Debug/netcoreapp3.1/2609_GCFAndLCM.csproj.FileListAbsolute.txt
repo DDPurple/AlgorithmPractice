@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.exe
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.deps.json
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.runtimeconfig.json
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.runtimeconfig.dev.json
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.dll
+C:\Practice\Baekjoon\2609_GCFAndLCM\bin\Debug\netcoreapp3.1\2609_GCFAndLCM.pdb
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.AssemblyInfo.cs
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.dll
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.pdb
+C:\Practice\Baekjoon\2609_GCFAndLCM\obj\Debug\netcoreapp3.1\2609_GCFAndLCM.genruntimeconfig.cache

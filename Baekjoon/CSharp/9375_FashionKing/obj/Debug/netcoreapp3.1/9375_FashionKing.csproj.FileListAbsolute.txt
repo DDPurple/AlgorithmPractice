@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.exe
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.deps.json
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.runtimeconfig.json
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.runtimeconfig.dev.json
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.dll
+C:\Practice\Baekjoon\9375_FashionKing\bin\Debug\netcoreapp3.1\9375_FashionKing.pdb
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.AssemblyInfo.cs
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.dll
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.pdb
+C:\Practice\Baekjoon\9375_FashionKing\obj\Debug\netcoreapp3.1\9375_FashionKing.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.exe
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.deps.json
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.runtimeconfig.json
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.runtimeconfig.dev.json
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.dll
+C:\Practice\Baekjoon\2606_Virus\bin\Debug\netcoreapp3.1\2606_Virus.pdb
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.AssemblyInfo.cs
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.dll
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.pdb
+C:\Practice\Baekjoon\2606_Virus\obj\Debug\netcoreapp3.1\2606_Virus.genruntimeconfig.cache

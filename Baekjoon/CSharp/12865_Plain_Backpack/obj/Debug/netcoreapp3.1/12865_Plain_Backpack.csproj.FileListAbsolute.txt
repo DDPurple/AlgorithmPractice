@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.exe
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.deps.json
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.runtimeconfig.json
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.runtimeconfig.dev.json
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.dll
+C:\Practice\Baekjoon\12865_Plain_Backpack\bin\Debug\netcoreapp3.1\12865_Plain_Backpack.pdb
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.AssemblyInfo.cs
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.dll
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.pdb
+C:\Practice\Baekjoon\12865_Plain_Backpack\obj\Debug\netcoreapp3.1\12865_Plain_Backpack.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2LmHyF5yvjAeYVRbGjKZXsWME8b3DhjzmIhAFkbil4FF+9Lc/BYLaPvdYsWH3BwDOUzrX6ojEKIY4B75PplHA==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Baekjoon\\1037_Divisor\\1037_Divisor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minwoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

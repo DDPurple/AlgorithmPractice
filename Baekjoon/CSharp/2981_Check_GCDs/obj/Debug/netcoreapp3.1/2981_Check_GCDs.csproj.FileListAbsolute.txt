@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.exe
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.deps.json
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.runtimeconfig.json
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.runtimeconfig.dev.json
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.dll
+C:\Practice\Baekjoon\2981_Check_GCDs\bin\Debug\netcoreapp3.1\2981_Check_GCDs.pdb
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.AssemblyInfo.cs
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.dll
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.pdb
+C:\Practice\Baekjoon\2981_Check_GCDs\obj\Debug\netcoreapp3.1\2981_Check_GCDs.genruntimeconfig.cache

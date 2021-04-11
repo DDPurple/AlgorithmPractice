@@ -1,0 +1,12 @@
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.exe
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.deps.json
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.runtimeconfig.json
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.runtimeconfig.dev.json
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.dll
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\bin\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.pdb
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.AssemblyInfo.cs
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.dll
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.pdb
+C:\Practice\Baekjoon\2004_NoOfZeroAtCombination\obj\Debug\netcoreapp3.1\2004_NoOfZeroAtCombination.genruntimeconfig.cache

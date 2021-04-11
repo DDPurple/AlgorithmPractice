@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.exe
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.deps.json
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.runtimeconfig.json
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.runtimeconfig.dev.json
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.dll
+C:\Practice\Baekjoon\1037_Divisor\bin\Debug\netcoreapp3.1\1037_Divisor.pdb
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.AssemblyInfo.cs
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.dll
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.pdb
+C:\Practice\Baekjoon\1037_Divisor\obj\Debug\netcoreapp3.1\1037_Divisor.genruntimeconfig.cache

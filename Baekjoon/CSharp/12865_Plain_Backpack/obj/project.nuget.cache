@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBeYHbcZiMACVA/+F4eFUgdGfPRdYGdjdFCw+wPzEw2aySzgj7GjCA1/Jhuvk+70rxlDJda8qqtAQDJAo6ZIfw==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Baekjoon\\12865_Plain_Backpack\\12865_Plain_Backpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minwoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

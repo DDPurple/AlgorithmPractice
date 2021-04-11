@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gRO0pHRZUbHjnc93wMLe9YDhdZi4/nBhqZmZ+jpZzMFSZKe2vrefiSuUTUpGohZ3EYd4RmGIrdHeiiCwYoyJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Baekjoon\\1676_NoOfZeroAtFactorial\\1676_NoOfZeroAtFactorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minwoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

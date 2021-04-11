@@ -1,0 +1,13 @@
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.exe
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.deps.json
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.runtimeconfig.json
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.runtimeconfig.dev.json
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.dll
+C:\Practice\Baekjoon\11653_Factorization\bin\Debug\netcoreapp3.1\11653_Factorization.pdb
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.csprojAssemblyReference.cache
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.AssemblyInfoInputs.cache
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.AssemblyInfo.cs
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.csproj.CoreCompileInputs.cache
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.dll
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.pdb
+C:\Practice\Baekjoon\11653_Factorization\obj\Debug\netcoreapp3.1\11653_Factorization.genruntimeconfig.cache
